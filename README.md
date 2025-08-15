@@ -1,0 +1,1 @@
+This is a project that has been assigned to me in the subject of Advanced Databases. The project was to design, create, and populate an entire SQL database for a company that had no previous one. The idea I chose was to create a database for a pet health and supply store, that included different types of pets, for example, cats, dogs, hamsters, etc.
